@@ -1,4 +1,5 @@
-# Summerino-A-Simple-Fun-Bot
+# Giveaway Bot
+
 A Open Source Fun Bot
 
 How To Use? 
